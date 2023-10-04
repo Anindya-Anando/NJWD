@@ -1,0 +1,1 @@
+alert("Welcome to Noob's Journey to Web Development.")
